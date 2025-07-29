@@ -75,7 +75,7 @@ export default function ProfilePage() {
             </div>
 
             <div className="space-y-1.5">
-              <div className="text-sm text-zinc-50 flex items-center gap-2">
+              <div className="text-sm text-zinc-500 flex items-center gap-2">
                 <Mail className="w-4 h-4" />
                 Email Address
               </div>

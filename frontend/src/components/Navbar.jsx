@@ -23,7 +23,7 @@ export default function Navbar() {
 
           <div className="flex items-center gap-2">
             <Link
-              to={`/sittings`}
+              to={`/settings`}
               className="btn btn-sm gap-2 transition-colors "
             >
               <Settings className="w-4 h-4" />
