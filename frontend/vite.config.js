@@ -9,7 +9,7 @@ export default defineConfig({
   //     "/api": {
   //       target: "http://localhost:5100",
   //       changeOrigin: true,
-  //       secure: false, // إذا كان الباكند يستخدم HTTP
+  //       secure: false,
   //     },
   //   },
   // },
